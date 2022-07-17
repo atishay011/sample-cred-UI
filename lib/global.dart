@@ -1,0 +1,1 @@
+ const String RUPPEES_LOGO = "\u{20B9}";
